@@ -1,0 +1,2 @@
+/// <reference types="vite/client" />
+VITE_NYT_API_KEY=yX3nJ7GtaxSGjFVVN50lrtrw5hNuMggx
